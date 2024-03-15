@@ -1,0 +1,34 @@
+body {
+  display: flex;
+  gap: 30px;
+  flex-direction: row;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
+}
+
+.star {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.material-icons {
+  display: block;
+  position: absolute;
+  font-size: 3rem;
+}
+
+.btn {
+  width: 30px;
+  height: 60px;
+  cursor: pointer;
+  opacity: 0;
+  border: none;
+  z-index: 1;
+}
+
+.btn:hover {
+  opacity: 0.4;
+}
