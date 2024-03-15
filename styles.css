@@ -18,6 +18,7 @@ body {
   display: block;
   position: absolute;
   font-size: 3rem;
+  color: rgb(255, 191, 0);
 }
 
 .btn {
