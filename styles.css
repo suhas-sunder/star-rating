@@ -28,8 +28,9 @@ body {
   opacity: 0;
   border: none;
   z-index: 1;
+  background-color: rgb(255, 191, 0);
 }
 
 .btn:hover {
-  opacity: 0.4;
+  opacity: 0.1;
 }
