@@ -7,7 +7,7 @@ I enjoy undertaking quick projects like this for fun, as they provide an opportu
 
 Feel free to explore the code and provide any feedback or suggestions. Enjoy!
 
-<img width="458" alt="image" src="https://github.com/suhas-sunder/star-rating-js/assets/77464593/194bb30d-238f-4bed-8439-5513a59ee4a4">
+<img width="623" alt="image" src="https://github.com/suhas-sunder/star-rating-js/assets/77464593/eef23424-759a-46bc-8ee9-cc6757b26893">
 
 ---
 
