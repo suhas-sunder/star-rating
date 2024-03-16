@@ -1,7 +1,7 @@
 # Simple Star Rating Component
 
 ## Description
-This project is a simple star rating component developed for practice purposes. It's a standalone component that allows users to rate something by clicking on stars. The project is not based on any tutorials; instead, it's a product of my own experimentation and exploration of ideas.
+This project is a simple star rating component developed for practice purposes. This is the basic version with no preview of rating on hover. It's a standalone component that allows users to rate something by clicking on stars. The project is not based on any tutorials; instead, it's a product of my own experimentation and exploration of ideas.
 
 I enjoy undertaking quick projects like this for fun, as they provide an opportunity to experiment with different concepts and technologies. Moreover, these projects serve as quick refreshers, allowing me to sharpen my skills in a hands-on manner.
 
